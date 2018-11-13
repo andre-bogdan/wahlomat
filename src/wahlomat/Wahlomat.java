@@ -19,6 +19,16 @@ public class Wahlomat {
     public static void main(String[] args) {
         // TODO code application logic here
         
+        //Array einlesen
+        
+        //Sieger Array initialisieren
+        
+        //Funktion SiegerErmitteln aufrufen
+        
+        //Wenn Sieger <> Republikaner -> Funktion SiegerErmitteln aufrufen
+        
+        //Ergebnis ausgeben
+        
         	Random wuerfel = new Random();
 		int augenZahl;
 
