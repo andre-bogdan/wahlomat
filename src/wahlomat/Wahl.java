@@ -8,7 +8,7 @@ package wahlomat;
 /**
  *
  * @author cwegner
- */TESTEST
+ */TES
 
 
 public class Wahl {
