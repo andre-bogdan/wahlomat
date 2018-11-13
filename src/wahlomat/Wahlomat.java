@@ -5,6 +5,8 @@
  */
 package wahlomat;
 
+import java.util.Random;
+
 /**
  *
  * @author cwegner
@@ -16,6 +18,15 @@ public class Wahlomat {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        
+        	Random wuerfel = new Random();
+		int augenZahl;
+
+		for (int i=0; i<10; i++){
+			augenZahl = 1 + wuerfel.nextInt(6);
+			System.out.println(augenZahl);
+        
     }
     
+}
 }
