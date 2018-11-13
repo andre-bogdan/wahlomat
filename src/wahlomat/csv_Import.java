@@ -1,3 +1,4 @@
+
 package wahlomat;
 
 import java.lang.Object;
@@ -18,6 +19,9 @@ for (Object object : content) {
 	           + " # " + row[1]
 	           + " #  " + row[2]);
 }
+//...
+
+csvReader.close();
 
 
 }
