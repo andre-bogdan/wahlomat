@@ -1,3 +1,4 @@
+
 package wahlomat;
 
 import java.lang.Object;
