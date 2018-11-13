@@ -18,8 +18,6 @@ for (Object object : content) {
 	           + " # " + row[1]
 	           + " #  " + row[2]);
 }
-//...
-csvReader.close();
 
 
 }
