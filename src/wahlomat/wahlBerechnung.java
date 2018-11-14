@@ -1,6 +1,6 @@
 package wahlomat;
 
-import java.io.BufferedReader;
+import java.util.Random;
 
 public class wahlBerechnung {
 
