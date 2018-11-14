@@ -1,4 +1,5 @@
 
+
 package wahlomat;
 
 public class Wahlomat {
@@ -19,7 +20,7 @@ public class Wahlomat {
         
         //Ergebnis ausgeben
         
-
+        //fertig
         
     }
     
