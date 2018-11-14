@@ -1,4 +1,5 @@
 
+
 package wahlomat;
 
 public class Wahlomat {
@@ -23,4 +24,4 @@ public class Wahlomat {
         
     }
     
-}
+}syg
