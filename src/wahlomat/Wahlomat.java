@@ -19,7 +19,7 @@ public class Wahlomat {
         
         //Ergebnis ausgeben
         
-
+        //fertig
         
     }
     
