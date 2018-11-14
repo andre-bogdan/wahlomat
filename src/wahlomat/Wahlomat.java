@@ -3,6 +3,7 @@ class Staat{
     public String name;
     public int einwohnerzahl, demo,rep,winner;
 
+import java.io.FileReader;
     public Staat(String name, int einwohnerzahl) {
         this.name = name;
         this.einwohnerzahl = einwohnerzahl;
