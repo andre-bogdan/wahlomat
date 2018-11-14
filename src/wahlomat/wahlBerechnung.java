@@ -1,17 +1,15 @@
 package wahlomat;
 
+import java.io.BufferedReader;
+
 public class wahlBerechnung {
 
     //Variablen:
-    
-    
     //Constuctors:
-    
-    
     //Methoden:  
-    
     public void readCSV() {
-
+ 
+        
     }
 
     public void ArrayInit() {

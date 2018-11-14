@@ -1,5 +1,3 @@
-
-
 package wahlomat;
 
 public class Wahlomat {
@@ -9,19 +7,20 @@ public class Wahlomat {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        
-        //Array einlesen        
-        
+
+        //Array einlesen     
+        String[] staaten;
+        int[] einwohner;
+
+        staaten = new Staaten().ArrayStaaten();
+
+        einwohner = new Staaten().ArrayEinwohner();
+
         //Sieger Array initialisieren
-        
         //Funktion SiegerErmitteln aufrufen
-        
         //Wenn Sieger <> Republikaner -> Funktion SiegerErmitteln aufrufen
-        
         //Ergebnis ausgeben
-        
         //fertig
-        
     }
-    
-}syg
+
+}
