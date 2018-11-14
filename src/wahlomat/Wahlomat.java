@@ -44,6 +44,12 @@ public class Wahlomat {
         for(int i=0;i<staaten.length;i++){
             objectArray[i] = new Staat(staaten[i],einwohner[i]);
         }
+        int trump = 0;
+        do{
+            
+            
+        }while(trump==0);
+        
         //Funktion SiegerErmitteln aufrufen
         //Wenn Sieger <> Republikaner -> Funktion SiegerErmitteln aufrufen
         //Ergebnis ausgeben
