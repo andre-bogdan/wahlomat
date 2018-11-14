@@ -40,10 +40,16 @@ public class Wahlomat {
         einwohner = new Staaten().ArrayEinwohner();
 
         //Sieger Array initialisieren
-        Staat[] objectArray = new Staat[5];
-        for(int i=0;i<5;i++){
-            objectArray[i] = new Staat(staaten[0],einwohner[0]);
+        Staat[] objectArray = new Staat[staaten.length];
+        for(int i=0;i<staaten.length;i++){
+            objectArray[i] = new Staat(staaten[i],einwohner[i]);
         }
+        int trump = 0;
+        do{
+            
+            
+        }while(trump==0);
+        
         //Funktion SiegerErmitteln aufrufen
         //Wenn Sieger <> Republikaner -> Funktion SiegerErmitteln aufrufen
         //Ergebnis ausgeben
