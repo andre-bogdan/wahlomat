@@ -40,7 +40,7 @@ public class Wahlomat {
         }
         
         //Sieger ermiteln/erfaken
-        int trump = 0;
+        int putin = 0;
         int zahl_demo;
         int demo = 0;
         int rep = 0;
@@ -69,13 +69,13 @@ public class Wahlomat {
                 }
             }
             if(demo>=rep){
-                trump = 0;
+                putin = 0;
                 winner = "Demokraten";
             }else{
-                trump = 1;
+                putin = 1;
                 winner = "Repuplikaner";
             }
-        }while(trump==0);
+        }while(putin==0);
         
         //Ergebnis ausgeben
         PrintWriter pWriter = null; 
