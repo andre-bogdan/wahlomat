@@ -44,6 +44,7 @@ public class Wahlomat {
         int zahl_demo;
         int demo = 0;
         int rep = 0;
+        int durchlauf = 0;
         String winner = null;
         do{
             demo = 0;
@@ -70,11 +71,13 @@ public class Wahlomat {
             }
             if(demo>=rep){
                 putin = 0;
+                durchlauf = durchlauf +1;
                 winner = "Demokraten";
             }else{
                 putin = 1;
                 winner = "Repuplikaner";
             }
+            
         }while(putin==0);
         
         //Ergebnis ausgeben
@@ -106,6 +109,7 @@ public class Wahlomat {
             System.out.println("Gewonnen = " + objectArray[i].winner);
             System.out.println("____________________________________");
         }
+        System.out.println("Putin hat " + durchlauf + " mal zugeschlagen.");
         System.out.println("Tata gewonnen haben man ahnt es kaum die " + winner + "\n\r" + demo + " Gouverneure für die Demokraten\n\r" + rep + " Gouverneure für die Repuplikaner");
     }
 
