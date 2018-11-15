@@ -13,6 +13,7 @@ public class Wahlomat {
         int[] einwohner;
 
         staaten = new Staaten().ArrayStaaten();
+        System.out.println(staaten[8]);
 
         einwohner = new Staaten().ArrayEinwohner();
 
