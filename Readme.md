@@ -17,6 +17,4 @@ Gelößt wurde ein Problem der echten Welt, incl. Strukturiertem Arbeiten mit fo
      Im nächsten schritt wird die Funktion SigerErmitteln aufrufen. Wenn der Sieger feststeht(Republikaner oder Demokraten) wird
      wieder die Funktion SiegerErmitteln aufrufen.
      
-     bogdan
-     
     

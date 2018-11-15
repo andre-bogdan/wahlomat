@@ -1,0 +1,315 @@
+Staat = Kalifornien
+Einwohner = 39250017
+Demokraten = 1362213
+Repuplikaner = 37887804
+Gewonnen = 1
+____________________________________
+Staat = Texas
+Einwohner = 2786259
+Demokraten = 767725
+Repuplikaner = 2018534
+Gewonnen = 1
+____________________________________
+Staat = Florida
+Einwohner = 20612439
+Demokraten = 2582402
+Repuplikaner = 18030037
+Gewonnen = 1
+____________________________________
+Staat = New York
+Einwohner = 19745289
+Demokraten = 4620027
+Repuplikaner = 15125262
+Gewonnen = 1
+____________________________________
+Staat = Illinois
+Einwohner = 12801539
+Demokraten = 918656
+Repuplikaner = 11882883
+Gewonnen = 1
+____________________________________
+Staat = Pennsylvania
+Einwohner = 12784227
+Demokraten = 9479275
+Repuplikaner = 3304952
+Gewonnen = 0
+____________________________________
+Staat = Ohio
+Einwohner = 11614373
+Demokraten = 1099134
+Repuplikaner = 10515239
+Gewonnen = 1
+____________________________________
+Staat = Georgia
+Einwohner = 10310653
+Demokraten = 5418915
+Repuplikaner = 4891738
+Gewonnen = 0
+____________________________________
+Staat = North Carolina
+Einwohner = 10146787
+Demokraten = 2596795
+Repuplikaner = 7549992
+Gewonnen = 1
+____________________________________
+Staat = Michigan
+Einwohner = 9928301
+Demokraten = 69207
+Repuplikaner = 9859094
+Gewonnen = 1
+____________________________________
+Staat = New Jersey
+Einwohner = 8944469
+Demokraten = 2200012
+Repuplikaner = 6744457
+Gewonnen = 1
+____________________________________
+Staat = Virginia
+Einwohner = 8411807
+Demokraten = 2992454
+Repuplikaner = 5419353
+Gewonnen = 1
+____________________________________
+Staat = Washington
+Einwohner = 7288003
+Demokraten = 6016177
+Repuplikaner = 1271826
+Gewonnen = 0
+____________________________________
+Staat = Arizona
+Einwohner = 6931071
+Demokraten = 3974482
+Repuplikaner = 2956589
+Gewonnen = 0
+____________________________________
+Staat = Massachusetts
+Einwohner = 6811779
+Demokraten = 6291102
+Repuplikaner = 520677
+Gewonnen = 0
+____________________________________
+Staat = Indiana
+Einwohner = 6633053
+Demokraten = 3218485
+Repuplikaner = 3414568
+Gewonnen = 1
+____________________________________
+Staat = Tennessee
+Einwohner = 6651195
+Demokraten = 2576559
+Repuplikaner = 4074636
+Gewonnen = 1
+____________________________________
+Staat = Missouri
+Einwohner = 6093001
+Demokraten = 4650601
+Repuplikaner = 1442400
+Gewonnen = 0
+____________________________________
+Staat = Maryland
+Einwohner = 6016447
+Demokraten = 2039499
+Repuplikaner = 3976948
+Gewonnen = 1
+____________________________________
+Staat = Wisconsin
+Einwohner = 5778707
+Demokraten = 2733317
+Repuplikaner = 3045390
+Gewonnen = 1
+____________________________________
+Staat = Colorado
+Einwohner = 5540545
+Demokraten = 1568408
+Repuplikaner = 3972137
+Gewonnen = 1
+____________________________________
+Staat = Minnesota
+Einwohner = 5519951
+Demokraten = 2560940
+Repuplikaner = 2959011
+Gewonnen = 1
+____________________________________
+Staat = South Carolina
+Einwohner = 4961119
+Demokraten = 553422
+Repuplikaner = 4407697
+Gewonnen = 1
+____________________________________
+Staat = Alabama
+Einwohner = 4863301
+Demokraten = 3068113
+Repuplikaner = 1795188
+Gewonnen = 0
+____________________________________
+Staat = Louisiana
+Einwohner = 4681665
+Demokraten = 561681
+Repuplikaner = 4119984
+Gewonnen = 1
+____________________________________
+Staat = Kentucky
+Einwohner = 4436973
+Demokraten = 3013311
+Repuplikaner = 1423662
+Gewonnen = 0
+____________________________________
+Staat = Oregon
+Einwohner = 4093465
+Demokraten = 426485
+Repuplikaner = 3666980
+Gewonnen = 1
+____________________________________
+Staat = Oklahoma
+Einwohner = 3923561
+Demokraten = 2041757
+Repuplikaner = 1881804
+Gewonnen = 0
+____________________________________
+Staat = Connecticut
+Einwohner = 3576451
+Demokraten = 614008
+Repuplikaner = 2962443
+Gewonnen = 1
+____________________________________
+Staat = Puerto Rico
+Einwohner = 3411307
+Demokraten = 2311522
+Repuplikaner = 1099785
+Gewonnen = 0
+____________________________________
+Staat = Iowa
+Einwohner = 3134693
+Demokraten = 1197271
+Repuplikaner = 1937422
+Gewonnen = 1
+____________________________________
+Staat = Utah
+Einwohner = 3051217
+Demokraten = 350069
+Repuplikaner = 2701148
+Gewonnen = 1
+____________________________________
+Staat = Mississippi
+Einwohner = 2988725
+Demokraten = 1252355
+Repuplikaner = 1736370
+Gewonnen = 1
+____________________________________
+Staat = Nevada
+Einwohner = 2940059
+Demokraten = 2571433
+Repuplikaner = 368626
+Gewonnen = 0
+____________________________________
+Staat = Arkansas
+Einwohner = 2937979
+Demokraten = 1549481
+Repuplikaner = 1388498
+Gewonnen = 0
+____________________________________
+Staat = Kansas
+Einwohner = 2907289
+Demokraten = 721682
+Repuplikaner = 2185607
+Gewonnen = 1
+____________________________________
+Staat = New Mexico
+Einwohner = 2081015
+Demokraten = 1314043
+Repuplikaner = 766972
+Gewonnen = 0
+____________________________________
+Staat = Nebraska
+Einwohner = 1907115
+Demokraten = 1646689
+Repuplikaner = 260426
+Gewonnen = 0
+____________________________________
+Staat = West Virginia
+Einwohner = 1831101
+Demokraten = 1104108
+Repuplikaner = 726993
+Gewonnen = 0
+____________________________________
+Staat = Idaho
+Einwohner = 1683141
+Demokraten = 93985
+Repuplikaner = 1589156
+Gewonnen = 1
+____________________________________
+Staat = Hawaii
+Einwohner = 1428557
+Demokraten = 161149
+Repuplikaner = 1267408
+Gewonnen = 1
+____________________________________
+Staat = New Hampshire
+Einwohner = 1334795
+Demokraten = 954103
+Repuplikaner = 380692
+Gewonnen = 0
+____________________________________
+Staat = Maine
+Einwohner = 1331479
+Demokraten = 796786
+Repuplikaner = 534693
+Gewonnen = 0
+____________________________________
+Staat = Rhode Island
+Einwohner = 1052425
+Demokraten = 750769
+Repuplikaner = 301656
+Gewonnen = 0
+____________________________________
+Staat = Montana
+Einwohner = 1042521
+Demokraten = 110528
+Repuplikaner = 931993
+Gewonnen = 1
+____________________________________
+Staat = Delaware
+Einwohner = 952065
+Demokraten = 873422
+Repuplikaner = 78643
+Gewonnen = 0
+____________________________________
+Staat = South Dakota
+Einwohner = 865453
+Demokraten = 696289
+Repuplikaner = 169164
+Gewonnen = 0
+____________________________________
+Staat = Alaska
+Einwohner = 741893
+Demokraten = 197802
+Repuplikaner = 544091
+Gewonnen = 1
+____________________________________
+Staat = North Dakota
+Einwohner = 757951
+Demokraten = 748143
+Repuplikaner = 9808
+Gewonnen = 0
+____________________________________
+Staat = District of Columbia
+Einwohner = 681171
+Demokraten = 144601
+Repuplikaner = 536570
+Gewonnen = 1
+____________________________________
+Staat = Vermont
+Einwohner = 624593
+Demokraten = 30298
+Repuplikaner = 594295
+Gewonnen = 1
+____________________________________
+Staat = Wyoming
+Einwohner = 585501
+Demokraten = 355994
+Repuplikaner = 229507
+Gewonnen = 0
+____________________________________
+Tata gewonnen haben man ahnt es kaum die Repuplikaner
+22 Gouverneure für die Demokraten
+30 Gouverneure für die Repuplikaner
