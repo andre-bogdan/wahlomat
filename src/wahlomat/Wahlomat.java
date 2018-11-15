@@ -1,4 +1,27 @@
 package wahlomat;
+class Staat{
+    public String name;
+    public int einwohnerzahl, demo,rep,winner;
+
+    public Staat(String name, int einwohnerzahl) {
+        this.name = name;
+        this.einwohnerzahl = einwohnerzahl;
+    }
+
+    public void setDemo(int demo) {
+        this.demo = demo;
+    }
+
+    public void setRep(int rep) {
+        this.rep = rep;
+    }
+
+    public void setWinner(int winner) {
+        this.winner = winner;
+    }
+
+    
+}
 
 public class Wahlomat {
 
@@ -18,6 +41,16 @@ public class Wahlomat {
         einwohner = new Staaten().ArrayEinwohner();
 
         //Sieger Array initialisieren
+        Staat[] objectArray = new Staat[staaten.length];
+        for(int i=0;i<staaten.length;i++){
+            objectArray[i] = new Staat(staaten[i],einwohner[i]);
+        }
+        int trump = 0;
+        do{
+            
+            
+        }while(trump==0);
+        
         //Funktion SiegerErmitteln aufrufen
         //Wenn Sieger <> Republikaner -> Funktion SiegerErmitteln aufrufen
         //Ergebnis ausgeben
