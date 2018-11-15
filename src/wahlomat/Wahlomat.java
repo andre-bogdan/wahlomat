@@ -1,4 +1,4 @@
-
+//testaenderung
 package wahlomat;
 
 import java.io.BufferedWriter;
